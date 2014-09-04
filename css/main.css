@@ -45,8 +45,7 @@ div{
     padding-right: 50px;
     padding-left: 50px;
     margin-top: 25px;
-    margin-bottom: px;
-
+   
 }
 
 .container2{
@@ -56,7 +55,7 @@ div{
 	margin-left: 98px;
 	width: 300px;
 	border-style: ridge;
-	
+
 	
 }
 
@@ -85,6 +84,27 @@ article{
 	border-color: blue;
 	margin-top: 25px;
 	margin-left: 98px;
+	width: 300px;
+	border-style: ridge;
+}
+
+#contentBox {
+    margin: 0 auto;
+    width: 100%;
+}
+#contentBox .column {
+    float: left;
+    margin: 0;
+    width: 50%;
+    border-width: 0px;
+}
+
+.container4{
+	border-width: 10px;
+	border-color: blue;
+	margin-top: 25px;
+	margin-left: 435px;
+	
 	width: 300px;
 	border-style: ridge;
 }
