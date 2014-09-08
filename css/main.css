@@ -1,30 +1,30 @@
 body{
-	background-image: url("http://fc04.deviantart.net/fs71/i/2012/159/9/4/wallpaper___sherlock_by_slench-d52pjdz.png");
+	background-image: url("https://s3.amazonaws.com/ooomf-com-files/2EsHHwmRswlLYnaG07Ew_paris-motionbug.com.jpg");
 	background-size:100%;
 	background-repeat: no-repeat;
 }
 .about-me{
-	border-width: 5px;
-	color: blue;
+	border-width: 0px;
+	color: #9900CC;
 	text-align: center;
 	border-color: green;
 	padding-top: 10px;
     padding-bottom: 10px;
     padding-right: 50px;
     padding-left: 50px;
-
+    font-family: fantasy;
 }
 
 .name{
-	border-width: 5px;
-	color: blue;
+	border-width: 0px;
+	color: #9900CC;
 	text-align: center;
 	border-color: yellow;
 	padding-top: 10px;
     padding-bottom: 10px;
     padding-right: 50px;
     padding-left: 50px;
-
+    font-family: fantasy;
 }
 div{
 	border-style: solid;
@@ -32,14 +32,14 @@ div{
 }
 
 .row{
-	border-width: 5px;
+	border-width: 0px;
 	border-color: white;
 	margin-top: 10px;
 }
 
 .container{
-	border-width: 5px;
-	border-color: red;
+	border-width: 0px;
+	
 	padding-top: 10px;
     padding-bottom: 10px;
     padding-right: 50px;
@@ -55,8 +55,6 @@ div{
 	margin-left: 98px;
 	width: 300px;
 	border-style: ridge;
-
-	
 }
 
 article{
@@ -88,23 +86,32 @@ article{
 	border-style: ridge;
 }
 
-#contentBox {
-    margin: 0 auto;
-    width: 100%;
-}
-#contentBox .column {
-    float: left;
-    margin: 0;
-    width: 50%;
-    border-width: 0px;
-}
+
 
 .container4{
 	border-width: 10px;
 	border-color: blue;
 	margin-top: 25px;
-	margin-left: 435px;
-	
+	margin-left: 98px;
 	width: 300px;
 	border-style: ridge;
+}
+
+.modal-content{
+	width: 500px;
+	padding-bottom: 25px;
+}
+
+.modal.fade .modal-dialog {
+	width: 500px;
+	border-width: 0px;
+}
+
+.btn-primary{
+	background-color: #660033;
+	border-color: black;
+	margin-left: 250px;
+	width: 120px;
+	margin-top: 50px;
+	position: center;
 }
