@@ -3,6 +3,12 @@ body{
 	background-size:100%;
 	background-repeat: no-repeat;
 }
+
+.body2{
+	background-image: url("https://s3.amazonaws.com/ooomf-com-files/ic1dX3kBQjGNaPQb8Xel_1920%20x%201280.jpg");
+	background-size:100%;
+	background-repeat: no-repeat;
+}
 .about-me{
 	border-width: 0px;
 	color: #9900CC;
