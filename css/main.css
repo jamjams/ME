@@ -116,8 +116,18 @@ article{
 .btn-primary{
 	background-color: #660033;
 	border-color: black;
-	margin-left: 250px;
+	margin-left: 620px;
 	width: 120px;
 	margin-top: 50px;
 	position: center;
+}
+
+.btn-primary2{
+	background-color: #660033;
+	border-color: black;
+	margin-left: 370px;
+	width: 120px;
+	margin-top: 50px;
+	position: center;
+	color: white;
 }
