@@ -2,6 +2,7 @@ body{
 	background-image: url("https://s3.amazonaws.com/ooomf-com-files/2EsHHwmRswlLYnaG07Ew_paris-motionbug.com.jpg");
 	background-size:100%;
 	background-repeat: no-repeat;
+	
 }
 
 .body2{
@@ -129,4 +130,12 @@ article{
 	width: 120px;
 	margin-top: 50px;
 	color: white;
+}
+
+.picture{
+	border-width: 0px;
+	
+	margin-top: 25px;
+	margin-bottom: 25px;
+
 }
