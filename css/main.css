@@ -131,10 +131,11 @@ article{
 	margin-bottom: 25px;
 }
 
-.container5{
+#container5{
 	border-width: 0px;
 	margin-left: 625px;
 	width: 120px;
 	margin-top: 50px;
+	margin: 0px auto;
 }
 
