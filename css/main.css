@@ -31,10 +31,7 @@ body{
     padding-left: 50px;
     font-family: fantasy;
 }
-div{
-	border-style: solid;
-	
-}
+
 
 .row{
 	border-width: 0px;
@@ -147,5 +144,10 @@ article{
 
 @media screen and (max-width: 959px) {
 
+}
+
+.music{
+	margin-top: 5px;
+	margin-left: 5px;
 }
 
