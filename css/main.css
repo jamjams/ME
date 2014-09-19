@@ -142,12 +142,20 @@ article{
 	border-width: 0px;
 }
 
-@media screen and (max-width: 959px) {
-
-}
-
 .music{
 	margin-top: 5px;
 	margin-left: 5px;
 }
 
+.carousel-caption{
+	color: red;
+	font-size: 20px;
+	
+}
+
+#carousel-example-generic{
+	width: 500px;
+	height: 400px;
+	margin-left: 450px;
+	margin-top: 50px;
+}
