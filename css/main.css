@@ -34,8 +34,7 @@ body{
 
 
 .row{
-	border-width: 0px;
-	border-color: white;
+	
 	margin-top: 10px;
 }
 
@@ -131,7 +130,9 @@ article{
 	margin: 0px auto;
 	border-width: 0px;
 }
+.container7{
 
+}
 .music{
 	margin-top: 5px;
 	margin-left: 5px;
@@ -146,164 +147,6 @@ article{
 	width: 500px;
 	margin-left: 335px;
 	margin-top: 50px;
-}
-
-.carousel-inner>.active{
-	height: 400px;
-}
-{!--Start of media query}
-@media (max-width: 320px max-height: 568px){
-	body{
-	background-image: url("http://33.media.tumblr.com/b11b494013d11a0ce49c4d25c0d05b56/tumblr_mvlo8zqMLr1sdyj9lo1_1280.jpg");
-	background-size:100%;
-	background-repeat: no-repeat;
-	
-}
-
-.body2{
-	background-image: url("https://s3.amazonaws.com/ooomf-com-files/ic1dX3kBQjGNaPQb8Xel_1920%20x%201280.jpg");
-	background-size:100%;
-	background-repeat: no-repeat;
-}
-.about-me{
-	border-width: 0px;
-	color: #9900CC;
-	text-align: center;
-	padding-top: 10px;
-    padding-bottom: 10px;
-    padding-right: 50px;
-    padding-left: 50px;
-    font-family: fantasy;
-}
-
-.name{
-	border-width: 0px;
-	color: #9900CC;
-	text-align: center;
-	padding-top: 10px;
-    padding-bottom: 10px;
-    padding-right: 50px;
-    padding-left: 50px;
-    font-family: fantasy;
-}
-
-
-.row{
-	border-width: 0px;
-	border-color: white;
-	margin-top: 10px;
-}
-
-.container{
-	border-width: 0px;
-	padding-top: 10px;
-    padding-bottom: 10px;
-    padding-right: 50px;
-    padding-left: 50px;
-    margin-top: 25px;
-
-}
-
-.container2{
-	border-width: 5px;
-	border-color: black;
-	margin-top: 25px;
-	margin-left: 98px;
-	width: 300px;
-	border-style: solid;
-}
-
-article{
-	color: black;
-	margin-left: 10px;
-	margin-right: 10px;
-	padding-top: 10px;
-	padding-bottom: 10px;
-}
-
-.about-me-para{
-	color: gray;
-	margin-top: 10px;
-	margin-left: 5px;
-	margin-right: 5px;
-	border-width:0px;
-	text-align: center;
-	
-	
-}
-
-.container3{
-	border-width: 5px;
-	border-color: black;
-	margin-top: 25px;
-	margin-left: 98px;
-	width: 300px;
-	border-style: solid;
-}
-
-
-
-.container4{
-	border-width: 5px;
-	border-color: black;
-	margin-top: 25px;
-	margin-left: 98px;
-	width: 300px;
-	border-style: solid;
-}
-
-.modal-content{
-	width: 500px;
-	padding-bottom: 25px;
-}
-
-.modal.fade .modal-dialog {
-	width: 500px;
-	border-width: 0px;
-}
-
-.btn-primary{
-	background-color: #660033;
-	border-color: black;
-	margin-left: 200px;
-	width: 120px;
-	margin-top: 50px;
-	color: white;
-}
-
-.btn-primary2{
-	background-color: #660033;
-	border-color: black;
-	margin-left: 370px;
-	width: 120px;
-	margin-top: 50px;
-	color: white;
-}
-
-#container5{
-}
-
-#container6{
-	width: 960px;
-	margin: 0px auto;
-	border-width: 0px;
-}
-
-.music{
-	margin-top: 5px;
-	margin-left: 5px;
-}
-
-.carousel-caption{
-	color: red;
-	font-size: 20px;
-}
-
-#carousel-example-generic{
-	width: 500px;
-	margin-left: 100px;
-	margin-top: 50px;
-	
 }
 
 .carousel-inner>.active{
