@@ -1,12 +1,11 @@
-@media only screen and (max-width: 320px) {
+@media (max-width: 320px) {
 		body {
-		/*background-image: url("http://33.media.tumblr.com/b11b494013d11a0ce49c4d25c0d05b56/tumblr_mvlo8zqMLr1sdyj9lo1_1280.jpg");
+		background-image: url("http://33.media.tumblr.com/b11b494013d11a0ce49c4d25c0d05b56/tumblr_mvlo8zqMLr1sdyj9lo1_1280.jpg");
 		background-size:100%;
-		background-repeat: no-repeat;*/
-		background-color: lime;
-		color: white;
+		background-repeat: no-repeat;
+		
 	}
-
+ 
 	.body2{
 		background-image: url("https://s3.amazonaws.com/ooomf-com-files/ic1dX3kBQjGNaPQb8Xel_1920%20x%201280.jpg");
 		background-size:100%;
@@ -125,9 +124,6 @@
 		color: white;
 	}
 
-	#container5{
-	}
-
 
 	.music{
 		margin-top: 5px;
@@ -139,12 +135,12 @@
 		font-size: 20px;
 	}
 	#carousel-example-generic {
-		width: 500px;
-		margin-left: 100px;
+		width: 320px;
+		margin-left: 10px;
 		margin-top: 50px;
-
 	}
 	.carousel-inner>.active{
-		height: 400px;
+		height: 300px;
+		
 	}
 }
