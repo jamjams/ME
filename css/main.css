@@ -7,7 +7,7 @@ body{
 .body2{
 	background-image: url("https://s3.amazonaws.com/ooomf-com-files/ic1dX3kBQjGNaPQb8Xel_1920%20x%201280.jpg");
 	background-repeat: no-repeat;
-}
+} 
 .about-me{
 	border-width: 0px;
 	color: #9900CC;
@@ -111,7 +111,7 @@ article{
 .btn-primary2{
 	background-color: #660033;
 	border-color: black;
-	margin-left: 370px;
+	margin-left: 550px;
 	width: 120px;
 	margin-top: 50px;
 	color: white;
@@ -127,7 +127,7 @@ article{
 
 .music{
 	margin-top: 5px;
-	margin-left: 530px;
+	margin-left: 780px;
 }
 
 .carousel-caption{
